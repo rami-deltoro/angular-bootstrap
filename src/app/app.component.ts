@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'tutorial-angular-cli-v6-styling-bootstrap';
+  title = 'Call Tracker';
 }
